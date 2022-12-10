@@ -1,0 +1,16 @@
+.bttn {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    font-size: 4rem;
+    border: none;
+}
+
+.alert {
+    font-size: 1.4rem;
+}
+
+button:disabled,
+button[disabled]{
+  color: #000;
+}
